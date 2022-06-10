@@ -34,7 +34,7 @@ def main_start_handler(update=Update,  context=CallbackContext):
         [
             InlineKeyboardButton("ارتباط با ما", url="https://t.me/Thiirty"),
             InlineKeyboardButton(
-                "گیت هاب", url="https://github.com/amirhoseinG"),
+                "گیت هاب", url="https://github.com/amirhoseinG/FATSRAN-telegram-bot"),
             InlineKeyboardButton("راهنما", callback_data="info")
         ]
     ]
@@ -61,7 +61,7 @@ def start_handler(update=Update,  context=CallbackContext):
         [
             InlineKeyboardButton("ارتباط با ما", url="https://t.me/Thiirty"),
             InlineKeyboardButton(
-                "گیت هاب", url="https://github.com/amirhoseinG"),
+                "گیت هاب", url="https://github.com/amirhoseinG/FATSRAN-telegram-bot"),
             InlineKeyboardButton("راهنما", callback_data="info")
         ]
     ]
@@ -127,7 +127,7 @@ def info(update=Update, context=CallbackContext):
         ],
         [
             InlineKeyboardButton(
-                "گیت هاب", url="https://github.com/amirhoseinG"),
+                "گیت هاب", url="https://github.com/amirhoseinG/FATSRAN-telegram-bot"),
             InlineKeyboardButton("ارتباط با ما", url="https://t.me/Thiirty")
         ]]
 
