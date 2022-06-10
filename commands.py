@@ -99,7 +99,7 @@ def get_text_two(update=Update,  context=CallbackContext):
     # use googletrans library to translate user message
     translator = Translator()
 
-    # get result 
+    # get Results 
     result = translator.translate(
         dict_msg["user_msg"], dest=dict_msg["user_to_lang"])
 
@@ -131,7 +131,7 @@ def info(update=Update, context=CallbackContext):
             InlineKeyboardButton("ارتباط با ما", url="https://t.me/Thiirty")
         ]]
 
-    # bot edit message give bot information
+    # bot edit message gives bot information
     context.bot.editMessageText(text=dict_msg["info_msg"], chat_id=dict_msg["user_chat_id"],
                                 message_id=dict_msg["user_msg_id"], reply_markup=InlineKeyboardMarkup(buttons))
 
@@ -145,7 +145,7 @@ def setting(update=Update,  context=CallbackContext):
 
     # update query data
     query = update.callback_query
-    # detect set language for show in message
+    # detect set language for To show in message
     lang_index = country_tag.index(dict_msg["user_to_lang"])
     # set user message and user chat id
     dict_msg["user_chat_id"] = query.message.chat_id
