@@ -1,7 +1,7 @@
 
 -------------- FASTRAN telegram bot project OPEN source --------------
 
-author : AmirhoseinG  , 
+author : AmirhoseinG 
 
 # General Info
 
