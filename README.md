@@ -1,8 +1,10 @@
 
--------------- FASTRAN telegram bot project OPEN source --------------
+# -------------- FASTRAN telegram bot project OPEN source --------------
+
 
 author : AmirhoseinG 
-
+    
+  
 # General Info
 
 fastran is a wonderful translator on the telegram platform.
@@ -34,3 +36,5 @@ Used for translation :
     pip install googletrans
 
 # preview images
+
+![photo5818862538216028117](https://user-images.githubusercontent.com/103039373/173038471-652899de-7dd0-4b3e-a51f-0cdb2a610aed.png)
