@@ -1,5 +1,5 @@
 
-# -------------- FASTRAN telegram bot project OPEN source --------------
+# -------------- FASTRAN telegram bot project OPEN source -------------
 
 
 author : AmirhoseinG 
