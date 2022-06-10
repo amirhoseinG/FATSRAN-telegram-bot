@@ -27,8 +27,8 @@ AND need to install following libraries
 
 Used to build the Telegram robot :
 
-pip install python-telegram-bot
+    pip install python-telegram-bot
 
 Used for translation :
 
-pip install googletrans
+    pip install googletrans
