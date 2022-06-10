@@ -37,4 +37,6 @@ Used for translation :
 
 # preview images
 
-![photo5818862538216028117](https://user-images.githubusercontent.com/103039373/173038471-652899de-7dd0-4b3e-a51f-0cdb2a610aed.png)
+![photo5818862538216028117](https://user-images.githubusercontent.com/103039373/173038471-652899de-7dd0-4b3e-a51f-0cdb2a610aed.png)  ![photo5818862538216028116](https://user-images.githubusercontent.com/103039373/173039116-4a511d42-f111-4978-8753-59e4fcea4a59.png)  ![photo5818862538216028115](https://user-images.githubusercontent.com/103039373/173039187-3ff69ef7-ca13-4276-9822-d624561a7e19.png)
+
+
