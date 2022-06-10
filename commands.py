@@ -140,7 +140,7 @@ def info(update=Update, context=CallbackContext):
 
 
     
-# getter setting function
+# setting getter function
 def setting(update=Update,  context=CallbackContext):
 
     # update query data
@@ -159,7 +159,7 @@ def setting(update=Update,  context=CallbackContext):
     return THIRD
 
 
-# setter setting function
+# setting setter function
 def setting_seter(update=Update,  context=CallbackContext):
 
     # update query data
