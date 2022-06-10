@@ -13,9 +13,9 @@ fastran auto Detects your text in your language and translates it easily
 
 # Technologies
 
-Using googletrans library for translation user text  .
+Using googletrans library to translate users text .
 
-Using telegram library for To build a bot .
+Using telegram library to build a bot .
 
 # how to run ?
 
